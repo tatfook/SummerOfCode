@@ -1,4 +1,3 @@
-Join our discussion 
 [![Gitter](https://badges.gitter.im/tatfook/SummerOfCode.svg)](https://gitter.im/tatfook/SummerOfCode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # NPL Summer Of Code 2016
